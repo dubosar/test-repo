@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ae9caae-c13f-454c-9209-1e7e71002c2c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/LaravelMix.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/test-repo.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/.env.example" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/NODE_ENV" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Console/Kernel.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Exceptions/Handler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Auth/ForgotPasswordController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Auth/LoginController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Auth/RegisterController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Auth/ResetPasswordController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Controller.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Kernel.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/EncryptCookies.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/TrimStrings.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/TrustProxies.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/VerifyCsrfToken.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/AppServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/AuthServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/BroadcastServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/EventServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/RouteServiceProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/User.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/artisan" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/bootstrap/app.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/bootstrap/cache/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/composer.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/app.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/auth.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/broadcasting.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/cache.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/database.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/filesystems.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/hashing.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/logging.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/mail.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/queue.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/services.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/session.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/view.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/factories/UserFactory.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/seeds/DatabaseSeeder.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/phpunit.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/.htaccess" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/css/app.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/js/manifest.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/js/vendor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/mix-manifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/assets/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/assets/js/components/Notification.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/lang/en/auth.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/lang/en/pagination.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/lang/en/passwords.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/lang/en/validation.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/routes/api.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/routes/channels.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/routes/console.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/routes/web.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/server.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/app/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/app/public/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/cache/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/sessions/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/testing/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/views/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/logs/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/tests/CreatesApplication.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/tests/Feature/ExampleTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/tests/TestCase.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/tests/Unit/ExampleTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/webpack.mix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/learning-mix/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>require</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/learning-mix/public/js/app.js" />
+        <option value="$PROJECT_DIR$/learning-mix/public/css/app.css" />
+        <option value="$PROJECT_DIR$/learning-mix/.env" />
+        <option value="$PROJECT_DIR$/learning-mix/resources/assets/js/components/Notification.js" />
+        <option value="$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/learning-mix/node_modules/bootstrap/dist/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/learning-mix/node_modules/laravel-mix/setup/webpack.config.js" />
+        <option value="$PROJECT_DIR$/learning-mix/resources/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/learning-mix/webpack.mix.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/learning-mix/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/composer" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/learning-mix/vendor/sebastian/comparator" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-17" />
+    <option name="y" value="27" />
+    <option name="width" value="949" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-repo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="test-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-repo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="learning-mix" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ae9caae-c13f-454c-9209-1e7e71002c2c" name="Default" comment="" />
+      <created>1526585110435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526585110435</updated>
+      <workItem from="1526585111696" duration="637000" />
+      <workItem from="1526585762835" duration="3836000" />
+      <workItem from="1526823817304" duration="6562000" />
+      <workItem from="1526924978905" duration="78000" />
+      <workItem from="1526960727688" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12512000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="922" y="22" width="907" height="1027" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3742621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27578476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2688414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27578476" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2360179" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learning-mix/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/node_modules/laravel-mix/setup/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="112" column="12" lean-forward="true" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/js/components/Notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/public/js/vendor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40029">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/public/js/manifest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/js/components/Notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/learning-mix/node_modules/toastr/build/toastr.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3420">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/node_modules/bootstrap/dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/node_modules/laravel-mix/setup/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
