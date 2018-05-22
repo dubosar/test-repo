@@ -23,6 +23,8 @@ mix.js('resources/assets/js/app.js', 'public/js')
 
 
 
+
+
 /*new webpack.ProvidePlugin({
     $: 'jquery',
     jQuery: 'jquery',

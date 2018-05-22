@@ -2,100 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ae9caae-c13f-454c-9209-1e7e71002c2c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/LaravelMix.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/test-repo.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/.env.example" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/NODE_ENV" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Console/Kernel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Exceptions/Handler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Auth/ForgotPasswordController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Auth/LoginController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Auth/RegisterController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Auth/ResetPasswordController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Controllers/Controller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Kernel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/EncryptCookies.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/RedirectIfAuthenticated.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/TrimStrings.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/TrustProxies.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Http/Middleware/VerifyCsrfToken.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/AppServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/AuthServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/BroadcastServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/EventServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/Providers/RouteServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/app/User.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/artisan" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/bootstrap/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/bootstrap/cache/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/composer.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/broadcasting.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/cache.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/database.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/filesystems.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/hashing.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/logging.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/mail.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/queue.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/services.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/session.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/config/view.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/factories/UserFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/migrations/2014_10_12_000000_create_users_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/database/seeds/DatabaseSeeder.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/phpunit.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/css/app.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/js/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/js/manifest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/js/vendor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/mix-manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/public/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/assets/js/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/assets/js/components/Notification.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/lang/en/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/lang/en/pagination.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/lang/en/passwords.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/lang/en/validation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/routes/api.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/routes/channels.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/routes/console.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/routes/web.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/server.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/app/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/app/public/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/cache/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/sessions/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/testing/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/framework/views/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/storage/logs/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/tests/CreatesApplication.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/tests/Feature/ExampleTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/tests/TestCase.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/tests/Unit/ExampleTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/learning-mix/webpack.mix.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/learning-mix/package.json" afterPath="$PROJECT_DIR$/learning-mix/package.json" />
+      <change beforePath="$PROJECT_DIR$/learning-mix/resources/assets/js/app.js" afterPath="$PROJECT_DIR$/learning-mix/resources/assets/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss" afterPath="$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss" />
+      <change beforePath="$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php" />
+      <change beforePath="$PROJECT_DIR$/learning-mix/webpack.mix.js" afterPath="$PROJECT_DIR$/learning-mix/webpack.mix.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,12 +21,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning-mix/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="442">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.mix.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning-mix/webpack.mix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <marker date="1526962710412" expanded="true" signature="30:50" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,12 +90,13 @@
         <option value="$PROJECT_DIR$/learning-mix/public/css/app.css" />
         <option value="$PROJECT_DIR$/learning-mix/.env" />
         <option value="$PROJECT_DIR$/learning-mix/resources/assets/js/components/Notification.js" />
-        <option value="$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss" />
         <option value="$PROJECT_DIR$/learning-mix/node_modules/bootstrap/dist/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/learning-mix/node_modules/laravel-mix/setup/webpack.config.js" />
-        <option value="$PROJECT_DIR$/learning-mix/resources/assets/js/app.js" />
-        <option value="$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/learning-mix/package.json" />
         <option value="$PROJECT_DIR$/learning-mix/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/learning-mix/resources/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php" />
       </list>
     </option>
   </component>
@@ -320,12 +275,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12512000" />
+    <option name="totallyTimeSpent" value="12757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="922" y="22" width="907" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3742621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3742621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -333,7 +289,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -391,6 +347,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -398,6 +355,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -405,6 +363,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -412,6 +371,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -419,6 +379,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -426,6 +387,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -440,6 +402,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -447,6 +410,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -454,6 +418,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -461,6 +426,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -468,6 +434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -475,6 +442,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -482,6 +450,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -496,6 +465,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -517,6 +487,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -524,6 +495,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -563,13 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-mix/public/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learning-mix/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -598,45 +563,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-mix/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learning-mix/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning-mix/webpack.mix.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning-mix/resources/assets/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning-mix/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="274">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
           <folding />
         </state>
       </provider>
