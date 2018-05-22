@@ -11,7 +11,7 @@
 
     </head>
     <body>
-    <h3>Test title</h3>
+    <h3>FINAL TITLE</h3>
 
         <script src="/js/manifest.js"></script>
         <script src="/js/vendor.js"></script>
